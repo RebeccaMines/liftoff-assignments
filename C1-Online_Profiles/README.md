@@ -13,6 +13,6 @@ https://github.com/RebeccaMines
 https://www.linkedin.com/in/rebecca-mines-143ba0105/
 
 ### Resume
-Submitting resume to mentor in a different way.
+Submitting resume to mentor in a different way for privacy.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
